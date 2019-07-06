@@ -3,7 +3,9 @@ A few scripts to allow MasterScheduler to control Playmaker and Behavior Designe
 
 REQUIREMENTS
 //MasterScheduler https://assetstore.unity.com/packages/tools/ai/master-scheduler-100283
+
 //Behavior Designer (If you want to update that)
+
 //Playmaker (If you want to update that)
 
 Notes on useage:
