@@ -17,8 +17,8 @@ SetManualTickUpdateOnStart - use this to make it so behavior designer will manua
 ManuallyUpdateFsm - use these to manually update the FSM's you add to "FsmsToUpdate" using the Queue you choose
 
 **Setup images**
-![Example usage](/images/exampleUse.png)
+![Example usage](/exampleUse.png)
 
-![Playmaker setup1](/images/pmSetup1.png)
+![Playmaker setup1](pmSetup1.png)
 
-![Playmaker setup2](/images/pmSetup2.png)
+![Playmaker setup2](/pmSetup2.png)
