@@ -14,7 +14,9 @@ QueueManager - use this to create your master scheduler queues- this runs on Awa
 
 SetManualTickUpdateOnStart - use this to make it so behavior designer will manually update all BT's using the Queue you choose
 
-ManuallyUpdateFsm - use these to manually update the FSM's you add to "FsmsToUpdate" using the Queue you choose
+ManuallyUpdateFsm - use these to manually update the FSM's you add to "FsmsToUpdate" using the Queue you choose (Can use the below action if you want to add an FSM from Playmaker itself)
+
+AddFsmToMasterSchedulerUpdate - Playmaker action to add the Fsm this is used in to a Queue(can use this instead of "ManuallUpdateFsm")
 
 **Setup images**
 
