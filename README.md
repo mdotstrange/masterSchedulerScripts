@@ -25,3 +25,5 @@ AddFsmToMasterSchedulerUpdate - Playmaker action to add the Fsm this is used in 
 ![Playmaker setup1](pmSetup1.png)
 
 ![Playmaker setup2](/pmSetup2.png)
+
+![Playmaker setup2](/ActionUseage.png)
