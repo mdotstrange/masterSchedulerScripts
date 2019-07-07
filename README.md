@@ -19,7 +19,7 @@ ManuallyUpdateFsm - use these to manually update the FSM's you add to "FsmsToUpd
 AddFsmToMasterSchedulerUpdate - Playmaker action to add the Fsm this is used in to a Queue(can use this instead of "ManuallUpdateFsm")
 
 **Setup images**
-**(If using the PM action you don't need the "ManuallkyUpdateFsm" script)**
+**(If using the PM action you don't need the "ManuallyUpdateFsm" script)**
 ![Example usage](/exampleUse.png)
 
 ![Playmaker setup2](/ActionUseage.png)
